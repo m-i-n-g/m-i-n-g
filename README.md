@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi there, I'm Ming 👋
+
+- 🔭 I’m currently working on ... my OSMCS degree!
+- 🌱 I’m currently learning ... AI/ML with.. COBOL?!
+- 💬 Ask me about ... IMS
+- 😄 Pronouns: ... he/him
 
 <!--
 **m-i-n-g/m-i-n-g** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
