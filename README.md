@@ -1,6 +1,6 @@
 ## Hi there, I'm Ming 👋
 
-- 🔭 I’m currently working on ... my OSMCS degree!
+- 🔭 I’m currently working on ... my MS CS degree!
 - 🌱 I’m currently learning ... AI/ML with.. COBOL?!
 - 💬 Ask me about ... IMS
 - 😄 Pronouns: ... he/him
